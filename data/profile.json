@@ -9,27 +9,28 @@
     "hardSkills": [
       {
         "name": "csharp",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/csharp.png"
+        
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "mysql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/mysql.png"
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
         "name": "vscode",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
