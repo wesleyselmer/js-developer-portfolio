@@ -9,28 +9,28 @@
     "hardSkills": [
       {
         "name": "csharp",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/csharp.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/csharp.png"
         
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/python.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/python.png"
       },
       {
         "name": "mysql",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/mysql.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/mysql.png"
       },
       {
         "name": "Mongodb",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/mongodb.png"
       },
       {
         "name": "vscode",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/main/data/imgs/vscode.png"
+        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
@@ -47,31 +47,56 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex",
+      "url": "https://github.com/wesleyselmer/pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "API em NodeJS e MongoDB",
+      "url": "https://github.com/wesleyselmer/escola_javascript",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Técnico de Manutenção em Informática / Nova Ética Informática",
+      "period": "2023 - até o momento",
+      "description": "Atendimento a vários clientes, tanto usuários quanto servidores de empresas."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Analista de Desenvolvimento de Sistemas / O Boticário",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "Análise e Desenvolvimento em RPA, utilizando Blue Prism."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de Sistemas de Automação / Premier IT",
+      "period": "2020 - 2021",
+      "description": "Análise e Desenvolvimento em RPA, utilizando Automation Edge."
+    },
+    {
+      "name": "Analista de suporte a sistemas / CPN Tecnologia",
+      "period": "2019 - 2020",
+      "description": "Instalação, atendimento, suporte e treinamento para os sistemas desenvolvidos pela empresa em PHP."
+    },
+    {
+      "name": "Analista de Desenvolvimento de Sistemas ADVPL / SMS Soluções",
+      "period": "2011 - 2013",
+      "description": "Consultoria TOTVS Protheus, desenvolvimento de soluções customizadas."
+    },
+    {
+      "name": "Técnico de Manutenção em Informática / Bit Place Informática",
+      "period": "2011 - 2011",
+      "description": "Atendimento a vários clientes, tanto usuários quanto servidores de empresas."
+    },
+    {
+      "name": "Programador WEB / União Sul Brasileira da IASD",
+      "period": "2009 - 2010",
+      "description": "Desenvolvimento, suporte e atendimento aos sistemas feitos pela empresa, em PHP."
+    },
+    {
+      "name": "Técnico de Manutenção em Informática / CTS Consultoria Técnica Atuarial e Serviços",
+      "period": "2008 - 2009",
+      "description": "Atendimento a empresa e suas filiais."
     }
   ]
 }
