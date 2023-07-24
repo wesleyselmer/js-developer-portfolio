@@ -9,36 +9,37 @@
     "hardSkills": [
       {
         "name": "csharp",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/csharp.png"
+        "logo": "https://wesleyselmer.github.io/js-developer-portfolio/data/imgs/csharp.png"
         
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/js.png"
+        "logo": "https://wesleyselmer.github.io/js-developer-portfolio/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/python.png"
+        "logo": "https://wesleyselmer.github.io/js-developer-portfolio/data/imgs/python.png"
       },
       {
         "name": "mysql",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/mysql.png"
+        "logo": "https://wesleyselmer.github.io/js-developer-portfolio/data/imgs/mysql.png"
       },
       {
         "name": "Mongodb",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/mongodb.png"
+        "logo": "https://wesleyselmer.github.io/js-developer-portfolio/data/imgs/mongodb.png"
       },
       {
         "name": "vscode",
-        "logo": "https://github.com/wesleyselmer/js-developer-portfolio/data/imgs/vscode.png"
+        "logo": "https://wesleyselmer.github.io/js-developer-portfolio/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Agilidade",
+      "Prestatividade",
+      "Oratória",
+      "Auto-aprendizado"
     ]
   },
   "languages": [
